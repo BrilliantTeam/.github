@@ -1,6 +1,6 @@
 # 關於我們
 
-![ N|Solid ](https://media.discordapp.net/attachments/596718421966716928/970513464143511582/AddText_02-21-12.10.34.png)
+![ N|Solid ](https://media.discordapp.net/attachments/596718421966716928/971190210928992267/AddText_05-04-06.36.35.png)
 
 > 輝煌伺服器創立於2022年1月2日，由一群默默無名的學生團隊創立，
 
