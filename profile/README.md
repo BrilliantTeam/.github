@@ -46,6 +46,8 @@
 
 - Twitter: https://twitter.com/BrilliantServer
 
+- Github: https://github.com/BrilliantServer
+
  # 團隊資訊
 
 > 團隊簡史
