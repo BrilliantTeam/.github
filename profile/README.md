@@ -38,7 +38,7 @@
 
 - 官方網站: 暫無
 
-- Discord: https://discord.gg/Brilliant 
+- Discord: https://discord.gg/5MHGpAFGEN
 
 - Instagram: https://www.instagram.com/brilliant.server
 
