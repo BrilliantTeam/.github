@@ -20,9 +20,13 @@
 
 - Java|Bedrock 連線位置: ` Brilliantw.net `
 
-- Bedrock 連續端口: ` 19132 `
+- Bedrock 連線端口: ` 19132 `
 
-- Java 連線版本: ` 1.18.2 `
+- Java 連線版本: ` 1.18 ~ 1.19 `
+
+- Bedrock 連線版本: ` 1.19.0 `
+
+- Server 運行版本: ` Java 1.18.2 `
 
 - Server 人數上限: ` 140 `
 
