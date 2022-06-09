@@ -50,7 +50,7 @@
 
 - Twitter: https://twitter.com/BrilliantServer
 
-- Github: https://github.com/BrilliantServer
+- GitHub: https://github.com/BrilliantServer
 
  # 團隊資訊
 
