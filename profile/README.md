@@ -40,7 +40,7 @@
 
  # 相關連結
 
-- 官方網站: 暫無
+- 官方網站: https://www.brilliantw.net/
 
 - Discord: https://discord.gg/5MHGpAFGEN
 
