@@ -28,7 +28,7 @@
 
 - Server 運行版本: ` Java 1.19 `
 
-- Server 人數上限: ` 140 `
+- Server 人數上限: ` 280 `
 
 - Server 正版驗證: ` 開啟 `
 
