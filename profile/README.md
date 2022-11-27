@@ -86,7 +86,7 @@
 
 - 技務士- [` SnowFireWolf `](https://github.com/SnowFireWolf): 輝煌伺服器後端技術人員，主要負責Discord機器人開發及調整
 
-- 技務士- [` MiunaPA `](https://github.com/MiunaPA): 輝煌伺服器插件技術人員，主要負責遊戲內插件製作及調整
+- 技務士- [` MiunaPA `](https://github.com/MiunaPA): 風平浪靜伺服器技術合作夥伴
 
 - 築務士- ` 鷺 `: 輝煌伺服器遊戲建築人員，主要負責伺服器內各項官方建築的建造
 
