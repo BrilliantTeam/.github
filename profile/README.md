@@ -80,8 +80,6 @@
 
 - 技務士- [` 小千 `](https://github.com/rDruTNT): 輝煌伺服器插件技術人員，主要負責遊戲內插件製作及調整
 
-- 技務士- ` 歐特 `: 輝煌伺服器後端技術人員，主要負責主機維護
-
 - 技務士- [` 菘菘 `](https://github.com/SiongSng): 輝煌伺服器插件技術人員，主要負責遊戲內插件製作及調整
 
 - 技務士- [` SnowFireWolf `](https://github.com/SnowFireWolf): 輝煌伺服器後端技術人員，主要負責Discord機器人開發及調整
