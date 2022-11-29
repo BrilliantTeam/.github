@@ -18,13 +18,15 @@
 
  # 基本資訊
 
-- Java|Bedrock 連線位置: ` Brilliantw.net `
+- Java連線位置: ` Brilliantw.net `
+
+- Bedrock 連線位置: ` BE.Brilliantw.net `
 
 - Bedrock 連線端口: ` 19132 `
 
 - Java 連線版本: ` 1.19.1 ~ 1.19.2 `
 
-- Bedrock 連線版本: ` 1.19.0 ~ 1.19.40 `
+- Bedrock 連線版本: ` 1.19.0 ~ 1.19.50 `
 
 - Server 運行機制: ` Java 1.19.2 `
 
