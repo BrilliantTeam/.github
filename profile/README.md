@@ -30,7 +30,7 @@
 
 - Server 運行機制: ` Java 1.19.2 `
 
-- Server 人數上限: ` 280 `
+- Server 人數上限: ` 140 `
 
 - Server 正版驗證: ` 開啟 `
 
