@@ -30,13 +30,13 @@
 
 - Server 運行機制: `  `
 
-- Server 人數上限: `  `
+- Server 人數上限: ` 100 `
 
 - Server 正版驗證: ` 開啟 `
 
-- Server 遊玩類型: `  `
+- Server 遊玩類型: ` 生存 `
 
-- Server 運行時間: ` 天時地利人和 `
+- Server 運行時間: ` 不固定 `
 
 - Server 主機位置: ` 臺灣 `
 
