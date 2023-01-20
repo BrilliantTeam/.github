@@ -1,22 +1,6 @@
-# 關於我們
-
 ![ N|Solid ](https://media.discordapp.net/attachments/596718421966716928/971190210928992267/AddText_05-04-06.36.35.png)
 
-> 輝煌伺服器創立於2021年1月22日，是一個挺養老的生存伺服器，
-
-> 
-
-> 近期開發開源插件、模組來為 Minecraft 社群提供資源。
-
-> 
-
-> 我們提供給玩家完善、豐富的遊玩體驗；便捷、易於理解的遊戲功能；簡單、有用的遊戲資源，
-
-> 
-
-> 給予 Minecraft 中文社群更加多元、更加不同的發展方向與營運模式。
-
- # 基本資訊
+# 基本資訊
 
 - Java連線位置: ` Brilliantw.net `
 
@@ -26,9 +10,11 @@
 
 - Java 連線版本: ` `
 
-- Bedrock 連線版本: `  `
+- Bedrock 連線版本: ` `
 
 - Server 運行機制: `  `
+
+- Server 人數上限: `  `
 
 - Server 人數上限: ` 100 `
 
@@ -39,6 +25,8 @@
 - Server 運行時間: ` 不固定 `
 
 - Server 主機位置: ` 臺灣 `
+
+<a href="https://www.mc-list.xyz/843/info" target="_blank"><img src="https://www.mc-list.xyz/banner/1-843.png" border="0"></a>
 
  # 相關連結
 
