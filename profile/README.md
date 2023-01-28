@@ -8,21 +8,21 @@
 
 - Bedrock 連線端口: ` 19132 `
 
-- Java 連線版本: ` `
+- Java 連線版本: ` 未定 `
 
-- Bedrock 連線版本: ` `
+- Bedrock 連線版本: ` 未定 `
 
-- Server 運行機制: `  `
+- Server 運行機制: ` 未定 `
 
-- Server 人數上限: `  `
+- Server 人數上限: ` 未定 `
 
 - Server 人數上限: ` 100 `
 
 - Server 正版驗證: ` 開啟 `
 
-- Server 遊玩類型: ` 生存 `
+- Server 遊玩類型: ` 生存...？ `
 
-- Server 運行時間: ` 不固定 `
+- Server 運行時間: ` 一種想開就開的節奏 `
 
 - Server 主機位置: ` 臺灣 `
 
