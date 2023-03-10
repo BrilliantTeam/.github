@@ -88,5 +88,7 @@
 
 - 協務士- ` 虎鯨 `
 
+- 協務士- [` Stars Shine `](https://github.com/StarsShine11904)
+
 # 團隊招募新血中！
 - <a href="https://www.brilliantw.net/成員招募">點我查看招募資訊</a>
