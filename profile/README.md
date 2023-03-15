@@ -50,15 +50,17 @@
 
 - 煌務卿：` 官方人員 `、` 伺服器管理員 `
 
-- 技務士：` 插件技術人員 `、` 後端技術人員 `、` 綜合技術人員 `
+- 式藝師：` 插件技術人員 `、` 後端技術人員 `、` 綜合技術人員 `
 
-- 協務士：` 客服支援人員 `、` 遊戲策劃人員 `
+- 侍御士：` 客服支援人員 `
 
-- 譯務士：` 在地化翻譯人員 `
+- 譯屋寮：` 在地化翻譯人員 `
 
-- 繪務士：` 遊戲美術人員 `
+- 繪部司：` 遊戲美術人員 `
 
-- 築務士：` 遊戲建築人員 `
+- 策士仲：` 遊戲策劃人員 `
+
+- 築匠工：` 遊戲建築人員 `
 
 
 > 團隊成員：
@@ -69,27 +71,29 @@
 
 - 煌務卿- [` 冰 `](https://github.com/YTiceice)
 
-- 技務士- [` 羽森 `](https://github.com/NCT-skyouo)
+- 式藝師- [` 羽森 `](https://github.com/NCT-skyouo)
 
-- 技務士- [` 小千 `](https://github.com/rDruTNT)
+- 式藝師- [` 小千 `](https://github.com/rDruTNT)
 
-- 技務士- [` 菘菘 `](https://github.com/SiongSng)
+- 式藝師- [` 菘菘 `](https://github.com/SiongSng)
 
-- 技務士- [` SnowFireWolf `](https://github.com/SnowFireWolf)
+- 式藝師- [` SnowFireWolf `](https://github.com/SnowFireWolf)
 
-- 技務士- [` 達斯 `](https://github.com/DasCrystal)
+- 式藝師- [` 達斯 `](https://github.com/DasCrystal)
 
-- 技務士- [` MinecraftPEayer `](https://github.com/MinecraftPEayer)
+- 式藝師- [` MinecraftPEayer `](https://github.com/MinecraftPEayer)
 
-- 協務士- ` 沙鼠 `
+- 侍御士- ` 沙鼠 `
 
-- 協務士- ` 虎鯨 `
+- 侍御士- ` 虎鯨 `
 
-- 協務士- [` Rubia `](https://github.com/HanzerHong)
+- 策士仲- [` Rubia `](https://github.com/HanzerHong)
 
-- 譯務士- [` Stars Shine `](https://github.com/StarsShine11904)
+- 譯屋寮- [` Stars Shine `](https://github.com/StarsShine11904)
 
-- 繪務士- ` 酥瑪書碼 `
+- 繪部司- ` 酥瑪書碼 `
+
+- 繪部司- ` kakoye `
 
 # 團隊招募新血中！
 - <a href="https://www.brilliantw.net/成員招募">點我查看招募資訊</a>
