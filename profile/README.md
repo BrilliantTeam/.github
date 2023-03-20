@@ -95,5 +95,7 @@
 
 - 繪部司- ` kakoye `
 
+- 繪部司- ` 恐龍 `
+
 # 團隊招募新血中！
 - <a href="https://www.brilliantw.net/成員招募">點我查看招募資訊</a>
