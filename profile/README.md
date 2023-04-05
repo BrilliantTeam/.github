@@ -89,8 +89,6 @@
 
 - 策士仲- [` Rubia `](https://github.com/HanzerHong)
 
-- 譯屋寮- [` Stars Shine `](https://github.com/StarsShine11904)
-
 - 繪部司- ` 酥瑪書碼 `
 
 - 繪部司- ` kakoye `
