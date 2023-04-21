@@ -1,43 +1,32 @@
 ![ N|Solid ](https://media.discordapp.net/attachments/596718421966716928/971190210928992267/AddText_05-04-06.36.35.png)
 
-# 基本資訊
+# 基本資訊（Java）
+- 連線位置：` Brilliantw.net `
+- 連線版本：` 1.19.1 ~ 1.19.4 `
+- 「Java / Bedrock 雙平台進入同一世界」
 
-- Java連線位置：` Brilliantw.net `
+# 基本資訊（Bedrock）
+- 連線位置：` BE.Brilliantw.net `
+- 連線端口：` 19132 `
+- 連線版本：` 1.19.20 ~ 1.19.73 `
+- 「Java / Bedrock 雙平台進入同一世界」
 
-- Bedrock 連線位置：` BE.Brilliantw.net `
-
-- Bedrock 連線端口：` 19132 `
-
-- Java 連線版本：` 1.19.1 ~ 1.19.4 `
-
-- Bedrock 連線版本：` 1.19.20 ~ 1.19.73 `
-
+#  其他資訊
 - Server 運行機制：` Java 1.19.3 `
-
 - Server 人數上限：` 30（目前為測試服階段） `
-
 - Server 正版驗證：` 開啟 `
-
 - Server 遊玩類型：` 特色生存 `
-
 - Server 運行時間：` 24H（目前為測試服階段） `
-
 - Server 主機位置：` 臺灣 `
 
 <a href="https://www.mc-list.xyz/843/info" target="_blank"><img src="https://www.mc-list.xyz/banner/1-843.png" border="0"></a>
 
 # 相關連結
-
 - 官方網站：https://www.brilliantw.net/
-
 - Discord：https://discord.gg/5MHGpAFGEN
-
 - Instagram：https://www.instagram.com/brilliant.server
-
 - Facebook：https://www.facebook.com/Brilliant.Server
-
 - Twitter：https://twitter.com/BrilliantServer
-
 - GitHub：https://github.com/BrilliantServer
 
 # 團隊資訊
