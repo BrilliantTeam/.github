@@ -27,13 +27,13 @@
 - Instagram：https://www.instagram.com/brilliant.server
 - Facebook：https://www.facebook.com/Brilliant.Server
 - Twitter：https://twitter.com/BrilliantServer
-- GitHub：https://github.com/BrilliantServer
+- GitHub：https://github.com/BrilliantTeam
 
 # 團隊資訊
 
 > 團隊簡介：
 
-- 輝煌團隊始於2019年7月13日，為一個普通的伺服器營運團隊。
+- 輝煌團隊始於 2019 年 7 月 13 日，為一個普通的伺服器營運團隊。
 - 我們提供給玩家完善、豐富的遊玩體驗；便捷、易於理解的遊戲功能；簡單、有用的遊戲資源，
 - 給予 Minecraft 中文社群更加多元、更加不同的發展方向與營運模式。
 
