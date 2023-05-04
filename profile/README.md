@@ -18,6 +18,7 @@
 - Server 遊玩類型：` 特色生存 `
 - Server 運行時間：` 24H（目前為測試服階段） `
 - Server 主機位置：` 臺灣 `
+- 電子郵件：admin@brilliantw.net
 
 <a href="https://www.mc-list.xyz/843/info" target="_blank"><img src="https://www.mc-list.xyz/banner/1-843.png" border="0"></a>
 
