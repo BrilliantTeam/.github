@@ -40,7 +40,7 @@
 
 - 煌務卿：` 官方人員 `、` 伺服器管理員 `
 
-- 式藝師：` 插件技術人員 `、` 後端技術人員 `、` 綜合技術人員 `
+- 式藝師：` 插件技術人員 `、` 後端技術人員 `、、` BOT技術人員 `、` AI溝通人員 `
 
 - 侍御士：` 客服支援人員 `
 
@@ -55,13 +55,13 @@
 
 > 團隊成員：
 
-- 煌務卿- [` 飯 `](https://github.com/RICE0707)
+- 煌務卿- [` RiceChen_ `](https://github.com/RICE0707)
 
 - 煌務卿- ` 風城 `
 
-- 煌務卿- [` 冰 `](https://github.com/YTiceice)
+- 煌務卿- [` Koyorice_ `](https://github.com/YTiceice)
 
-- 式藝師- [` 羽森 `](https://github.com/NCT-skyouo)
+- 式藝師- [` NCT skyouo `](https://github.com/NCT-skyouo)
 
 - 式藝師- [` 小千 `](https://github.com/rDruTNT)
 
@@ -81,11 +81,11 @@
 
 - 繪部司- ` 酥瑪書碼 `
 
-- 繪部司- ` 恐龍 `
+- 繪部司- ` cookiedinosaur `
 
 - 築匠工- ` 企鵝 `
 
-- 築匠工- ` Kingson_Faputa `
+- 築匠工- ` kk `
 
 # 團隊招募新血中！
 - <a href="https://www.brilliantw.net/成員招募">點我查看招募資訊</a>
