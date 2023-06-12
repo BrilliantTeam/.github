@@ -77,7 +77,7 @@
 
 - 侍御士- ` 虎鯨 `
 
-- 策士仲- [` Rubia `](https://github.com/HanzerHong)
+- 策士仲- [` Rubia `](https://github.com/Rubia7599)
 
 - 繪部司- ` 酥瑪書碼 `
 
