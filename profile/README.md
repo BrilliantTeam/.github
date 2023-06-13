@@ -13,10 +13,9 @@
 
 # 其他資訊
 - Server 運行機制：` Java 1.19.3 `
-- Server 人數上限：` 30（目前為測試服階段） `
+- Server 人數上限：` 100 `
 - Server 正版驗證：` 開啟 `
-- Server 遊玩類型：` 特色生存 `
-- Server 運行時間：` 24H（目前為測試服階段） `
+- Server 運行時間：` 24H `
 - Server 主機位置：` 臺灣 `
 - 電子郵件：admin@brilliantw.net
 
