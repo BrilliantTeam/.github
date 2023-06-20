@@ -78,7 +78,7 @@
 
 - 策士仲- [` Rubia `](https://github.com/Rubia7599)
 
-- 繪部司- ` 酥瑪書碼 `
+- 繪部司- ` 酥瑪 `
 
 - 繪部司- ` cookiedinosaur `
 
