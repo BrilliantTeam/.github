@@ -12,7 +12,7 @@
 - 「Java / Bedrock 雙平台進入同一世界」
 
 # 其他資訊
-- Server 運行機制：` Java 1.19.3 `
+- Server 運行機制：` Java 1.20.1 `
 - Server 人數上限：` 100 `
 - Server 正版驗證：` 開啟 `
 - Server 運行時間：` 24H `
