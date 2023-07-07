@@ -6,8 +6,8 @@
 - 「Java / Bedrock 雙平台進入同一世界」
 
 # 基本資訊（Bedrock）
-- 連線位置：` BE.Brilliantw.net `
-- 連線端口：` 19132 `
+- 連線位置：` Brilliantw.net `
+- 連線端口：` 19133 `
 - 連線版本：` 1.19.80 ~ 1.20.1 `
 - 「Java / Bedrock 雙平台進入同一世界」
 
