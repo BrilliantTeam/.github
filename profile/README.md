@@ -39,7 +39,7 @@
 
 - 煌務卿：` 官方人員 `、` 伺服器管理員 `
 
-- 式藝師：` 插件技術人員 `、` 後端技術人員 `、、` BOT技術人員 `、` AI溝通人員 `
+- 式藝師：` 插件技術人員 `、` 後端技術人員 `、` BOT技術人員 `、` AI溝通人員 `
 
 - 侍御士：` 客服支援人員 `
 
@@ -73,6 +73,8 @@
 - 式藝師- [` MinecraftPEayer `](https://github.com/MinecraftPEayer)
 
 - 式藝師- [` 吐司 `](https://github.com/TUSZzzz)
+
+- 式藝師- [` 旋 `](https://github.com/xuancat0208)
 
 - 侍御士- ` 沙鼠 `
 
