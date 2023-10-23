@@ -1,4 +1,4 @@
-![ N|Solid ](https://media.discordapp.net/attachments/596718421966716928/971190210928992267/AddText_05-04-06.36.35.png)
+![ N|Solid ](https://www.brilliantw.net/img/關於輝煌/橫幅.png)
 
 # 基本資訊（Java）
 - 連線位置：` Brilliantw.net `
