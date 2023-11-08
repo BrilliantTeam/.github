@@ -78,6 +78,8 @@
 
 - 式藝師- [` 旋 `](https://github.com/xuancat0208)
 
+- 式藝師- [` Nontage `](https://github.com/SeanMud0319)
+
 - 侍御士- ` 沙鼠 `
 
 - 侍御士- ` 虎鯨 `
