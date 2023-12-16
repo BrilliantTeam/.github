@@ -61,7 +61,9 @@
 
 - 煌務卿- ` 風城 `
 
-- 煌務卿- [` Koyorice_ `](https://github.com/YTiceice)
+- 煌務卿- ` 酥瑪 `
+
+- 式藝師- [` Koyorice_ `](https://github.com/YTiceice)
 
 - 式藝師- [` NCT skyouo `](https://github.com/NCT-skyouo)
 
@@ -86,8 +88,6 @@
 - 侍御士- ` 虎鯨 `
 
 - 策士仲- [` Rubia `](https://github.com/Rubia7599)
-
-- 繪部司- ` 酥瑪 `
 
 - 繪部司- ` cookiedinosaur `
 
