@@ -63,8 +63,6 @@
 
 - 煌務卿- ` 酥瑪 `
 
-- 式藝師- [` Koyorice_ `](https://github.com/YTiceice)
-
 - 式藝師- [` NCT skyouo `](https://github.com/NCT-skyouo)
 
 - 式藝師- [` 小千 `](https://github.com/rDruTNT)
