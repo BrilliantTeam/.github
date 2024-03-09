@@ -79,6 +79,8 @@
 
 - 式藝師- [` Nontage `](https://github.com/SeanMud0319)
 
+- 式藝師- [` L1An `](https://github.com/L1-An)
+
 - 侍御士- ` 沙鼠 `
 
 - 侍御士- ` 虎鯨 `
