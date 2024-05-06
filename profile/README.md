@@ -23,7 +23,6 @@
 
 # 相關連結
 - 官方網站：https://www.brilliantw.net/
-- 狀態總覽：https://uptime.brilliantw.net/
 - Discord：https://discord.brilliantw.net/
 - Instagram：https://www.instagram.com/brilliant.server
 - Facebook：https://www.facebook.com/Brilliant.Server
