@@ -1,4 +1,4 @@
-![ N|Solid ](https://www.brilliantw.net/img/關於輝煌/橫幅.png)
+![關於輝煌](https://www.brilliantw.net/img/關於輝煌/橫幅.png)
 
 # 基本資訊（Java）
 - 連線位置：` Brilliantw.net `
