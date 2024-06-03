@@ -56,7 +56,7 @@
 
 - 煌務卿- ` 風城 `
 
-- 煌務卿- ` 酥瑪 `
+- 煌務卿- [` 酥瑪 `](https://github.com/isbn978986)
 
 - 式藝師- [` NCT skyouo `](https://github.com/NCT-skyouo)
 
