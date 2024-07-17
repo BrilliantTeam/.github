@@ -25,6 +25,7 @@
 - 官方網站：https://www.brilliantw.net/
 - Discord：https://discord.brilliantw.net/
 - Instagram：https://www.instagram.com/brilliant.server
+- Threads：https://www.threads.net/@brilliant.server
 - Facebook：https://www.facebook.com/Brilliant.Server
 - Twitter：https://twitter.com/BrilliantServer
 - GitHub：https://github.com/BrilliantTeam
