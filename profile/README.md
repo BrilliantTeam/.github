@@ -64,8 +64,6 @@
 
 - 式藝師- [` 小千 `](https://github.com/rDruTNT)
 
-- 式藝師- [` 菘菘 `](https://github.com/SiongSng)
-
 - 式藝師- [` SnowFireWolf `](https://github.com/SnowFireWolf)
 
 - 式藝師- [` 達斯 `](https://github.com/DasCrystal)
