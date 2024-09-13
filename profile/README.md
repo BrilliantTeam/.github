@@ -78,10 +78,6 @@
 
 - 式藝師- [` Nontage `](https://github.com/SeanMud0319)
 
-- 式藝師- [` L1An `](https://github.com/L1-An)
-
-- 式藝師- [` 天夜Yoku `](https://github.com/yoku0206)
-
 - 策士仲- [` Rubia `](https://github.com/Rubia7599)
 
 - 繪部司- ` cookiedinosaur `
