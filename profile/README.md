@@ -1,35 +1,38 @@
 ![關於輝煌](https://www.brilliantw.net/img/關於輝煌/橫幅.png)
 
 # 基本資訊（Java）
-- 連線位置：` Brilliantw.net `
-- 連線版本：` 1.20 ~ 1.21.1 `
-- 建議版本：` 1.20.2 `
-
+連線位置|連線版本|
+:------:|:------:|
+|Brilliantw.net|1.20 ~ 1.21.1|
 # 分流玩法
-- 第一分流：` 超便捷插件生存服 `
-- 第二分流：` 超便捷插件生存服 `
-- 第三分流：` 很自由生電專用服 `
-- 第四分流：` 超便捷插件生存服 `
+分流名稱|玩法定向|機制版本
+:------:|:------:|:------:|
+第一分流|超便捷插件生存服|Java 1.20.2|
+第二分流|超便捷插件生存服|Java 1.20.2|
+第三分流|很自由生電專用服|Java 1.20.6|
+第四分流|超便捷插件生存服|Java 1.20.2|
 
 # 其他資訊
-- Server 運行機制：` Java 1.20.2 `（三服` 1.20.6 `）
-- Server 人數上限：` 300 `
-- Server 正版驗證：` 開啟 `
-- Server 運行時間：` 24H `
-- Server 主機位置：` 臺灣 `
-- 電子郵件：admin@brilliantw.net
+資訊|內容|
+:------:|:------:|
+|人數上限|300|
+|正版驗證|開啟|
+|運行時間|24H|
+|主機位置|臺灣|
+|電子郵件t|admin@brilliantw.net|
 
 <a href="https://www.mc-list.xyz/843/info" target="_blank"><img src="https://www.mc-list.xyz/banner/1-843.png" border="0"></a>
 
 # 相關連結
-- 官方網站：https://www.brilliantw.net/
-- Discord：https://discord.brilliantw.net/
-- Instagram：https://www.instagram.com/brilliant.server
-- Threads：https://www.threads.net/@brilliant.server
-- Facebook：https://www.facebook.com/Brilliant.Server
-- Twitter：https://twitter.com/BrilliantServer
-- GitHub：https://github.com/BrilliantTeam
-
+類型|連結|
+:------:|:------:|
+|官方網站|https://www.brilliantw.net/|
+|Discord|https://discord.brilliantw.net/|
+|Instagram|https://www.instagram.com/brilliant.server|
+|Threads|https://www.threads.net/@brilliant.server|
+|Facebook|https://www.facebook.com/Brilliant.Server|
+|Twitter|https://twitter.com/BrilliantServer|
+|GitHub|https://github.com/BrilliantTeam|
 
 # 團隊資訊
 
