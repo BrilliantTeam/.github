@@ -19,7 +19,7 @@
 |正版驗證|開啟|
 |運行時間|24H|
 |主機位置|臺灣|
-|電子郵件t|admin@brilliantw.net|
+|電子郵件|admin@brilliantw.net|
 
 <a href="https://www.mc-list.xyz/843/info" target="_blank"><img src="https://www.mc-list.xyz/banner/1-843.png" border="0"></a>
 
