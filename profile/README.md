@@ -67,7 +67,7 @@
 式藝師|插件技術人員|吐司|[TUSZzzz](https://github.com/TUSZzzz)
 式藝師|插件技術人員|旋|[xuancat0208](https://github.com/xuancat0208)
 式藝師|插件技術人員|Nontage|[Nontage](https://github.com/SeanMud0319)
-策士仲|遊戲策劃人員|Rubia|[HanzerHong](https://github.com/Rubia7599)
+策士仲|遊戲策劃人員|Rubia|[Rubin](https://github.com/Rubin7599)
 繪部司|製圖美術人員、遊戲材質製作人員|cookiedinosaur|無
 繪部司|遊戲材質製作人員|鯉魚|無
 繪部司|製圖美術人員|白紙|無
