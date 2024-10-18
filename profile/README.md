@@ -38,6 +38,7 @@
 |Threads|https://www.threads.net/@brilliant.server|
 |Facebook|https://www.facebook.com/Brilliant.Server|
 |Twitter|https://twitter.com/BrilliantServer|
+|BlueSky|https://bsky.app/profile/brilliantw.net|
 |GitHub|https://github.com/BrilliantTeam|
 
 # 團隊資訊
