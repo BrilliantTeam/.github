@@ -40,6 +40,7 @@
 |Twitter|https://twitter.com/BrilliantServer|
 |BlueSky|https://bsky.app/profile/brilliantw.net|
 |GitHub|https://github.com/BrilliantTeam|
+|QQ|1029316743（給大陸玩家使用，入群請填遊戲名稱）|
 
 # 團隊資訊
 
