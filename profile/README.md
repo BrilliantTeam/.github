@@ -53,7 +53,7 @@
 ### 團隊成員：
 職位名|正式職位分類|成員名稱|Github 帳號|
 :------:|:------:|:------:|:------:|
-煌務卿|服主、官方、管理員、遊戲材質製作、插件技術|RiceChen_|[RICE0707](https://github.com/RICE0707)
+煌務卿|服主、官方、管理員、遊戲材質製作、插件技術、機器人技術|RiceChen_|[RICE0707](https://github.com/RICE0707)
 煌務卿|官方、管理員|風城|無
 煌務卿|官方、管理員、製圖美術、遊戲材質製作|書碼|[isbn978986](https://github.com/isbn978986)
 式藝師|插件技術、後端技術、機器人技術|NCT skyouo|[NCT-skyouo](https://github.com/NCT-skyouo)
