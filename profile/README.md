@@ -65,7 +65,7 @@
 式藝師|插件技術|旋|[xuancat0208](https://github.com/xuancat0208)
 式藝師|插件技術|Nontage|[SeanMud0319](https://github.com/SeanMud0319)
 式藝師|插件技術|芒果|[Hinogo2210](https://github.com/Hinogo2210)
-式藝師|網路技術|可可|[twseer67875)](https://github.com/twseer67875)
+式藝師|網路技術|可可|[twseer67875](https://github.com/twseer67875)
 策士仲|遊戲策劃|Rubia|[Rubin](https://github.com/Rubin7599)
 繪部司|製圖美術、遊戲材質製作|cookiedinosaur|無
 繪部司|遊戲材質製作|鯉魚|無
