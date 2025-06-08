@@ -30,7 +30,7 @@
 資訊|代稱|處理器|
 :------:|:------:|:------:|
 |2022/12購入|飯娘|AMD R9 7950X|
-|2025/05購入|智齒|AMD R9 9950X|
+|2025/05購入|飯齒|AMD R9 9950X|
 
 <a href="https://www.mc-list.xyz/843/info" target="_blank"><img src="https://www.mc-list.xyz/banner/1-843.png" border="0"></a>
 
