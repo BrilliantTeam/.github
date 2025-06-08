@@ -26,6 +26,12 @@
 |主機位置|臺灣|
 |電子郵件|ricechen@brilliantw.net|
 
+# 主機資訊
+資訊|代稱|處理器|
+:------:|:------:|:------:|
+|2022/12購入|飯娘|AMD R9 7950X|
+|2025/05購入|智齒|AMD R9 9950X|
+
 <a href="https://www.mc-list.xyz/843/info" target="_blank"><img src="https://www.mc-list.xyz/banner/1-843.png" border="0"></a>
 
 # 相關連結
@@ -59,7 +65,6 @@
 式藝師|插件技術|小千|[rDruTNT](https://github.com/rDruTNT)
 式藝師|後端技術、機器人技術|SnowFireWolf|[SnowFireWolf](https://github.com/SnowFireWolf)
 式藝師|插件技術、遊戲策劃|達斯|[DasCrystal](https://github.com/DasCrystal)
-式藝師|機器人技術|MinecraftPEayer|[MinecraftPEayer](https://github.com/MinecraftPEayer)
 式藝師|插件技術|吐司|[TUSZzzz](https://github.com/TUSZzzz)
 式藝師|插件技術|旋|[xuancat0208](https://github.com/xuancat0208)
 式藝師|插件技術|Nontage|[SeanMud0319](https://github.com/SeanMud0319)
@@ -67,7 +72,6 @@
 式藝師|網路技術|可可|[twseer67875](https://github.com/twseer67875)
 策士仲|遊戲策劃|Rubia|[Rubin](https://github.com/Rubin7599)
 繪部司|製圖美術、遊戲材質製作|cookiedinosaur|無
-繪部司|遊戲材質製作|鯉魚|無
 繪部司|製圖美術|白紙|無
 築匠工|遊戲建築|One|無
 侍御士|工單客服|鹹魚|無
