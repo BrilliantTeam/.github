@@ -59,12 +59,9 @@
 職位名|正式職位分類|成員名稱|Github 帳號|
 :------:|:------:|:------:|:------:|
 煌務卿|服主、官方、管理員、遊戲材質製作、插件技術、機器人技術|RiceChen_|[RICE0707](https://github.com/RICE0707)
-煌務卿|官方、管理員|風城|無
 煌務卿|官方、管理員、製圖美術、遊戲材質製作|書碼|[isbn978986](https://github.com/isbn978986)
 式藝師|插件技術、後端技術、機器人技術|NCT skyouo|[NCT-skyouo](https://github.com/NCT-skyouo)
 式藝師|插件技術|小千|[rDruTNT](https://github.com/rDruTNT)
-式藝師|後端技術、機器人技術|SnowFireWolf|[SnowFireWolf](https://github.com/SnowFireWolf)
-式藝師|插件技術、遊戲策劃|達斯|[DasCrystal](https://github.com/DasCrystal)
 式藝師|插件技術|吐司|[TUSZzzz](https://github.com/TUSZzzz)
 式藝師|插件技術|旋|[xuancat0208](https://github.com/xuancat0208)
 式藝師|插件技術|芒果|[Hinogo2210](https://github.com/Hinogo2210)
@@ -73,6 +70,7 @@
 繪部司|製圖美術、遊戲材質製作|cookiedinosaur|無
 繪部司|製圖美術|白紙|無
 築匠工|遊戲建築|One|無
+侍御士|管理協助|風城|無
 侍御士|工單客服|鹹魚|無
 
 # 團隊招募新血中！
