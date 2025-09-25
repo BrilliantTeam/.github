@@ -38,6 +38,7 @@
 類型|連結|
 :------:|:------:|
 |官方網站|https://www.brilliantw.net/|
+|網站地圖|https://map.brilliantw.net/|
 |Discord|https://discord.brilliantw.net/|
 |Instagram|https://www.instagram.com/brilliant.server|
 |Threads|https://www.threads.net/@brilliant.server|
