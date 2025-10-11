@@ -63,7 +63,6 @@
 式藝師|插件技術、後端技術、機器人技術|NCT skyouo|[NCT-skyouo](https://github.com/NCT-skyouo)
 式藝師|插件技術|小千|[rDruTNT](https://github.com/rDruTNT)
 式藝師|插件技術|吐司|[TUSZzzz](https://github.com/TUSZzzz)
-式藝師|插件技術|旋|[xuancat0208](https://github.com/xuancat0208)
 式藝師|插件技術|芒果|[Hinogo2210](https://github.com/Hinogo2210)
 式藝師|網路技術|可可|[twseer67875](https://github.com/twseer67875)
 繪部司|製圖美術、遊戲材質製作|cookiedinosaur|無
