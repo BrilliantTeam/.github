@@ -64,6 +64,7 @@
 式藝師|插件技術|小千|[rDruTNT](https://github.com/rDruTNT)
 式藝師|插件技術|吐司|[TUSZzzz](https://github.com/TUSZzzz)
 式藝師|插件技術|芒果|[Hinogo2210](https://github.com/Hinogo2210)
+式藝師|插件技術|凍|[Doren12345](https://github.com/Doren12345)
 式藝師|網路技術|可可|[twseer67875](https://github.com/twseer67875)
 繪部司|製圖美術、遊戲材質製作|cookiedinosaur|無
 繪部司|製圖美術|白紙|無
