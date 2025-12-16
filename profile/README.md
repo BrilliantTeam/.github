@@ -60,7 +60,6 @@
 :------:|:------:|:------:|:------:|
 煌務卿|服主、官方、管理員、遊戲材質製作、插件技術、機器人技術|RiceChen_|[RICE0707](https://github.com/RICE0707)
 煌務卿|官方、管理員、製圖美術、遊戲材質製作|書碼|[isbn978986](https://github.com/isbn978986)
-式藝師|插件技術、後端技術、機器人技術|NCT skyouo|[NCT-skyouo](https://github.com/NCT-skyouo)
 式藝師|插件技術|小千|[rDruTNT](https://github.com/rDruTNT)
 式藝師|插件技術|吐司|[TUSZzzz](https://github.com/TUSZzzz)
 式藝師|插件技術|芒果|[Hinogo2210](https://github.com/Hinogo2210)
