@@ -40,6 +40,7 @@
 |官方網站|https://www.brilliantw.net/|
 |網站地圖|https://map.brilliantw.net/|
 |Discord|https://discord.brilliantw.net/|
+|Twitch|https://www.twitch.tv/misteln_rice|
 |LINE|https://line.me/ti/g2/ngXBzDJQZME0ZvnVZflmaszQv7pG52zpJpRdwA|
 |Instagram|https://www.instagram.com/brilliant.server|
 |Threads|https://www.threads.net/@brilliant.server|
