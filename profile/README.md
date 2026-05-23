@@ -72,6 +72,7 @@
 侍御士|管理協助|風城|無
 侍御士|工單客服|鹹魚|無
 策士仲|遊戲策劃|Rubia|[Rubin](https://github.com/Rubin7599)
+策士仲|遊戲策劃|達斯|[DasCrystal](https://github.com/DasCrystal)
 
 # 團隊招募新血中！
 - <a href="https://www.brilliantw.net/成員招募">點我查看招募資訊</a>
