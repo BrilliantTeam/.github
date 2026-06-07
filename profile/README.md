@@ -9,14 +9,14 @@
 # 基本資訊（Java）
 連線位置|連線版本|
 :------:|:------:|
-|Brilliantw.net|1.20.6 ~ 26.1.2|
+|Brilliantw.net|1.21.1~ 26.1.2|
 # 分流玩法
 分流名稱|玩法定向|機制版本|主機部屬|直連位置
 :------:|:------:|:------:|:------:|:------:|
-炒飯分流|超便捷插件生存服|Java 1.20.6|飯娘|s1.brilliantw.net
-書碼分流|超便捷插件生存服|Java 1.20.6|飯娘|s2.brilliantw.net
-羽森分流|很自由調味紅石服|Java 1.20.6|飯齒|s3.brilliantw.net
-恐龍分流|超便捷插件生存服|Java 1.20.6|飯娘|s4.brilliantw.net
+炒飯分流|超便捷插件生存服|Java 1.21.1|飯娘|s1.brilliantw.net
+書碼分流|超便捷插件生存服|Java 1.21.1|飯娘|s2.brilliantw.net
+羽森分流|很自由調味紅石服|Java 1.21.1|飯齒|s3.brilliantw.net
+恐龍分流|超便捷插件生存服|Java 1.21.1|飯娘|s4.brilliantw.net
 
 # 其他資訊
 資訊|內容|
